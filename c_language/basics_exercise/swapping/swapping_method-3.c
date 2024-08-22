@@ -7,7 +7,7 @@ int main()
 	x=x^y;
 	y=x^y;
 	x=x^y;
-	printf("swapping of %d and %d ",x,y);
+	printf("swapping of %d and %d\n ",x,y);
 	return 0;
 }
 
